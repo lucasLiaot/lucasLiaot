@@ -24,6 +24,17 @@ While much of my experience has been developed within musical contexts, the prin
 
 ## Ongoing Exploration
 My growing interest in voice technology, sound design and emerging audio tools reflects a desire to contribute to the evolving landscape of how humans interact with sound, especially in the domain of voice and communication.
+
+## Direct Repositories
+AudioExperiments: https://github.com/lucasLiaot/audio-experiments
+
+VoiceDesignNotes: https://github.com/lucasLiaot/voice-design-notes
+
+
+
+
+
+
 <!--
 **lucasLiaot/lucasLiaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
