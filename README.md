@@ -14,13 +14,13 @@ I consider the human voice the most powerful and complex instrument in audio pro
 Through both professional collaborations and my own artistic projects, I have developed a deep interest in the expressive potential of the voice.  
 I explore vocal tone, texture, timing, space and nuance in order to enhance its communicative power and emotional impact.
 
-This continuous focus on vocal treatment has led me to study and experiment with different approaches to vocal processing — technically and creatively — treating the voice not just as a sound source, but as a narrative and emotional carrier.
+This continuous focus on vocal treatment has led me to study and experiment with different approaches to vocal processing — technically and creatively, treating the voice not just as a sound source, but as a narrative and emotional carrier.
 
 ## Creative & Technical Approach
 My background combines structured audio engineering practice with a creative mindset.  
 I enjoy working at the intersection of technology, art and perception, constantly searching for new ways to refine sound and expand its expressive possibilities.
 
-While much of my experience has been developed within musical contexts, the principles that guide my work — critical listening, experimentation, precision and emotional awareness — extend naturally into broader audio and voice-related fields.
+While much of my experience has been developed within musical contexts, the principles that guide my work, critical listening, experimentation, precision and emotional awareness, extend naturally into broader audio and voice-related fields.
 
 ## Ongoing Exploration
 My growing interest in voice technology, sound design and emerging audio tools reflects a desire to contribute to the evolving landscape of how humans interact with sound, especially in the domain of voice and communication.
