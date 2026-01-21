@@ -1,7 +1,7 @@
 
 # Lucas Liao — Audio Engineer
 
-I am an audio engineer working primarily in music production, specialized in mixing and mastering, with a strong personal and professional focus on vocal processing.
+I am an audio engineer working primarily in music production, specialized in mixing and mastering, sound desing, with a strong personal and professional focus on vocal processing.
 
 ## Professional Practice
 My main work revolves around shaping sound at both technical and emotional levels.  
@@ -16,6 +16,20 @@ I explore vocal tone, texture, timing, space and nuance in order to enhance its 
 
 This continuous focus on vocal treatment has led me to study and experiment with different approaches to vocal processing — technically and creatively, treating the voice not just as a sound source, but as a narrative and emotional carrier.
 
+## Sound Design Practice
+Beyond music production, I work actively in sound design, creating sonic experiences through a combination of **original recordings**, **Foley**, and **carefully curated sound libraries**.  
+I enjoy building sounds from the ground up — recording physical actions, manipulating textures, layering elements, and shaping them with effects to achieve specific emotional or narrative results.
+
+My approach to sound design emphasizes:
+- Attention to micro‑details  
+- Creative use of effects and modulation  
+- Spatial awareness and movement  
+- Blending organic and synthetic elements  
+- Crafting sounds that support storytelling and immersion  
+
+Whether designing FX, environmental textures, or character‑driven sounds, I aim to create audio that feels intentional, expressive and integrated with the visual or interactive context.
+
+
 ## Creative & Technical Approach
 My background combines structured audio engineering practice with a creative mindset.  
 I enjoy working at the intersection of technology, art and perception, constantly searching for new ways to refine sound and expand its expressive possibilities.
@@ -29,11 +43,6 @@ My growing interest in voice technology, sound design and emerging audio tools r
 AudioExperiments: https://github.com/lucasLiaot/audio-experiments
 
 VoiceDesignNotes: https://github.com/lucasLiaot/voice-design-notes
-
-
-
-
-
 
 <!--
 **lucasLiaot/lucasLiaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
